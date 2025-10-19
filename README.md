@@ -12,3 +12,9 @@ Nota2: [III] -  As organizações definem onde usar seus aplicativos. As organiz
 
 CAPEX ou Despesas de Capital >> $$ Infra física (e se reduz com o tempo).
 OPEX ou Despesas Operacionais >> $$ Produtos/Serviços (cfe. o uso) >> Modelo baseado em consumo.
+
+Tipos de Serviço em Nuvem:
+IaaS - Infraestrutura como Serviço  (maior gestão do cliente);
+PaaS - Plataforma como Serviço (Aplicativos)
+  Fornece ambiente para criação, teste e implantação de aplicativos de software, sem focar no gerenciamento de infraestrutura subjacente;
+SaaS - Software como Serviço (licenciamento).
